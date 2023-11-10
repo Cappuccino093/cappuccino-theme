@@ -1,6 +1,9 @@
-[submodule "CappuccinoVSCodeTheme"]
-	path = CappuccinoVSCodeTheme
-	url = https://github.com/Cappuccino093/CappuccinoVSCodeTheme
-[submodule "CappuccinoVSTheme"]
-	path = CappuccinoVSTheme
-	url = https://github.com/Cappuccino093/CappuccinoVSTheme
+[submodule "cappuccino-vs-theme"]
+	path = cappuccino-vs-theme
+	url = https://github.com/cappuccino093/cappuccino-vs-theme
+[submodule "cappuccino-vscode-theme"]
+	path = cappuccino-vscode-theme
+	url = https://github.com/cappuccino093/cappuccino-vscode-theme
+[submodule "cappuccino-theme-test"]
+	path = cappuccino-theme-test
+	url = https://github.com/cappuccino093/cappuccino-theme-test
