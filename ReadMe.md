@@ -36,11 +36,11 @@ if you want to give me credit, I would appreciate it.
 This is a list of the tools that I used to create the theme:
 
 - Software
-	-   [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) as my main OS
-	-   [Git](https://git-scm.com) as the control version system
+  - [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) as my main OS
+  - [Git](https://git-scm.com) as the control version system
 - Theme colors and design
-	- [Fluent Design 2 - Colors](https://react.fluentui.dev/?path=/docs/theme-colors--page) as color reference
-	- [Fluent Design 2 - Designer](https://react.fluentui.dev/?path=/docs/themedesigner--page) as color designer
+  - [Fluent Design 2 - Colors](https://react.fluentui.dev/?path=/docs/theme-colors--page) as color reference
+  - [Fluent Design 2 - Designer](https://react.fluentui.dev/?path=/docs/themedesigner--page) as color designer
 
 ## License 📄
 
