@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Cappuccino's Theme",
+			"path": "."
+		},
+		{
+			"name": "Cappuccino's Theme (Test)",
+			"path": "CappuccinoThemeTest"
+		},
+		{
+			"name": "Cappuccino's Theme (Visual Studio Code)",
+			"path": "CappuccinoVSCodeTheme"
+		}
+	]
+}
