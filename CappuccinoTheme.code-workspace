@@ -9,6 +9,10 @@
 			"path": "CappuccinoThemeTest"
 		},
 		{
+			"name": "Cappuccino's Theme (Visual Studio)",
+			"path": "CappuccinoVSTheme"
+		},
+		{
 			"name": "Cappuccino's Theme (Visual Studio Code)",
 			"path": "CappuccinoVSCodeTheme"
 		}
