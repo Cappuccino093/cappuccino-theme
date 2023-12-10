@@ -7,3 +7,6 @@
 [submodule "CappuccinoThemeTest"]
 	path = CappuccinoThemeTest
 	url = https://github.com/Cappuccino093/CappuccinoThemeTest
+[submodule "CappuccinoJetBrainsTheme"]
+	path = CappuccinoJetBrainsTheme
+	url = https://github.com/Cappuccino093/CappuccinoJetBrainsTheme

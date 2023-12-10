@@ -15,6 +15,10 @@
 		{
 			"name": "Cappuccino's Theme (Visual Studio Code)",
 			"path": "CappuccinoVSCodeTheme"
+		},
+		{
+			"path": "CappuccinoJetBrainsTheme"
 		}
 	]
 }
+
