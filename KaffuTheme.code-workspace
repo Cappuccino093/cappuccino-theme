@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Cappuccino's Theme",
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.preferCSharpExtension": true
+	}
+}
+
