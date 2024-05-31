@@ -1,12 +1,12 @@
 [submodule "KaffuJetBrainsTheme"]
 	path = KaffuJetBrainsTheme
-	url = https://github.com/KaffuTheme/KaffuJetBrainsTheme
+	url = https://github.com/Kaffu093/KaffuJetBrainsTheme
 [submodule "KaffuThemeTest"]
 	path = KaffuThemeTest
-	url = https://github.com/KaffuTheme/KaffuThemeTest
+	url = https://github.com/Kaffu093/KaffuThemeTest
 [submodule "KaffuVSCodeTheme"]
 	path = KaffuVSCodeTheme
-	url = https://github.com/KaffuTheme/KaffuVSCodeTheme
+	url = https://github.com/Kaffu093/KaffuVSCodeTheme
 [submodule "KaffuVSTheme"]
 	path = KaffuVSTheme
-	url = https://github.com/KaffuTheme/KaffuVSTheme
+	url = https://github.com/Kaffu093/KaffuVSTheme
