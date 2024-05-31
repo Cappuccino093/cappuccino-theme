@@ -1,12 +1,12 @@
-[submodule "CappuccinoVSTheme"]
-	path = CappuccinoVSTheme
-	url = https://github.com/Cappuccino093/CappuccinoVSTheme
-[submodule "CappuccinoVSCodeTheme"]
-	path = CappuccinoVSCodeTheme
-	url = https://github.com/Cappuccino093/CappuccinoVSCodeTheme
-[submodule "CappuccinoThemeTest"]
-	path = CappuccinoThemeTest
-	url = https://github.com/Cappuccino093/CappuccinoThemeTest
-[submodule "CappuccinoJetBrainsTheme"]
-	path = CappuccinoJetBrainsTheme
-	url = https://github.com/Cappuccino093/CappuccinoJetBrainsTheme
+[submodule "KaffuJetBrainsTheme"]
+	path = KaffuJetBrainsTheme
+	url = .\\KaffuJetBrainsTheme\\
+[submodule "KaffuThemeTest"]
+	path = KaffuThemeTest
+	url = .\\KaffuThemeTest\\
+[submodule "KaffuVSCodeTheme"]
+	path = KaffuVSCodeTheme
+	url = .\\KaffuVSCodeTheme\\
+[submodule "KaffuVSTheme"]
+	path = KaffuVSTheme
+	url = .\\KaffuVSTheme\\
